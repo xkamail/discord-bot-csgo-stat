@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-testing",
+  "version": "1.0.0",
+  "description": "A simple bot replying a message",
+  "main": "app.js",
+  "author": "xKamaiL",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "csgo": "^1.5.12",
+    "discord.js": "^11.5.1",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.15",
+    "steam": "^1.4.1"
+  }
+}
